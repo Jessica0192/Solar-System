@@ -1,4 +1,4 @@
-# Solar System
+<h1 align="center"> Solar System </h1>
 This program provides a graphical user interface (GUI) that enables users to create their own solar system by configuring planets and moons. The program utilizes Processing (G4P) for the GUI and animation and is compatible with any platform that supports Java.
 
 ## Important Note

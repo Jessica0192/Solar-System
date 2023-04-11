@@ -18,8 +18,9 @@ The Solar System Program has several notable features, including:
 * GUI control to take a screenshot of the canvas
 * A continuous background sound that plays when the program starts
 
-## Technology Stack and Requirements
+## Technology Stack
 The program relies on the following technologies:
+* Processing
 * Java
 * G4P
 

@@ -2,7 +2,7 @@
 This program provides a graphical user interface (GUI) that enables users to create their own solar system by configuring planets and moons. The program utilizes Processing (G4P) for the GUI and animation and is compatible with any platform that supports Java.
 
 ## Important Note
-The content of this repository is an academic project and should not be made public as it is related to academic coursework. Any misuse of the project may result in serious consequences, including academic penalties and disciplinary action. A video recording of the project is available for viewing, and access to the code base and additional materials related to this project may be granted only for legitimate educational or research purposes. Please contact the creator directly to make a request.
+The content of this repository is an academic project and should not be made public as it is related to academic coursework. Any misuse of the project may result in serious consequences, including academic penalties and disciplinary action. A video recording of the project is available for viewing, and access to the code base and additional materials related to this project may be granted only for legitimate educational or research purposes. Please contact me directly to make a request.
 
 ## Key Features
 The Solar System Program has several notable features, including:
